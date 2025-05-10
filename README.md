@@ -4,7 +4,6 @@ Este proyecto es un que permite generar y gestionar riesgos durante los sprints 
 
 Incluye generación aleatoria de riesgos, cálculo de prioridad, categorización y sugerencias de mitigación. También permite exportar los informes generados.
 
----
 
 ## Características
 
@@ -18,7 +17,6 @@ Incluye generación aleatoria de riesgos, cálculo de prioridad, categorización
   - Resumen estadístico.
 - Exporta informes a un archivo `.txt`.
 
----
 
 ## Requisitos
 
